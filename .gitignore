@@ -23,6 +23,5 @@ target/
 
 # eclipse stuffs
 .settings/*
-*/.settings/
 .classpath
 .project
